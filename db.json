@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "GEma",
+      "lastName": "perez",
+      "email": "gemaperez@",
+      "gender": "2",
+      "education": "Intermediate",
+      "dob": "2023-05-25T22:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "fdgf",
+      "lastName": "gfg",
+      "email": "fgfg",
+      "gender": "1",
+      "education": "Diploma",
+      "dob": "2023-05-09T22:00:00.000Z",
+      "id": 3
+    }
+  ]
+}
